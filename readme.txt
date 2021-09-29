@@ -11,3 +11,12 @@ $ git remote -v
 Push the changes in your local repository to GitHub.
 $ git push origin main
 # Pushes the changes in your local repository up to the remote repository you specified a
+
+git config --global user.name "ExpertZs"
+git config --global user.email zs.freelancer1@gmail.com
+Zs64230085
+
+myNewToken
+
+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
+
